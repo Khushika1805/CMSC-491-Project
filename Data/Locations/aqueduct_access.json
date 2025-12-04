@@ -1,0 +1,8 @@
+{
+  "name": "Aqueduct Access",
+  "description": "A structural passage beneath the great bridge. Water drips endlessly into the abyss.",
+  "exits": ["Great Bridge", "Lower Sewers"],
+  "npcs": [],
+  "enemies": ["Rabid Dog"],
+  "items": ["Pebble", "Shining Coins"]
+}

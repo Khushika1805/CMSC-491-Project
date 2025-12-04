@@ -1,0 +1,26 @@
+{
+  "name": "Father Gascoigne",
+  "type": "Hunter Boss",
+  "max_hp": 2600,
+  "damage": 160,
+  "defense": 45,
+  "speed": 38,
+  "ai_behavior": "aggressive_hunter",
+  "faction": "Hunter",
+  "aggro_state": "hostile",
+  "phase_change": {
+    "trigger_hp_percent": 30,
+    "new_form": "Beast Gascoigne"
+  },
+  "special_attacks": [
+    "Gun Parry",
+    "Visceral Slash",
+    "Beast Transformation Rage"
+  ],
+  "drop_items": [
+    {
+      "item_name": "Odeon Tomb Key",
+      "quantity": 1
+    }
+  ]
+}

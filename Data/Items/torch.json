@@ -1,0 +1,10 @@
+{
+  "name": "Torch",
+  "item_type": "Off-hand Weapon",
+  "description": "A burning torch used to illuminate dark paths and ward off beasts.",
+  "effect": {
+    "fire_damage": 30
+  },
+  "stack_limit": 1,
+  "location": "Dropped by Molotov mob hunters near the bridge to Central Yharnam"
+}

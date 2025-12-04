@@ -1,0 +1,91 @@
+{
+  "first_encounter": [
+    "Oh, a hunter, are ya? And an outsider? What a mess you've been caught up in. And tonight, of all nights.",
+    "Here, to welcome the new hunter.",
+    "(Gives 'Bold Hunter's Mark' x4)",
+    "Prepare yourself for the worst. There are no humans left. They're all flesh-hungry beasts, now."
+  ],
+
+  "first_encounter_followup_1": [
+    "Still lingering about? What's wrong? A hunter, unnerved by a few beasts? Heh heh... No matter."
+  ],
+
+  "first_encounter_followup_2": [
+    "Without fear in our hearts, we're little different from the beasts themselves.",
+    "(Gives 'Shake off Cape' expression)"
+  ],
+
+  "first_encounter_followup_3": [
+    "What are you still doing here? Enough trembling in your boots. A hunter must hunt."
+  ],
+
+  "outside_cathedral_ward_warning": [
+    "Oh, hello there.",
+    "Perfect timing. I must warn you...",
+    "...not to go near the tomb below Oedon Chapel in the Cathedral Ward.",
+    "Henryk, an old hunter, has gone mad.",
+    "And he's my mark...",
+    "(Gives 'Shh!' gesture)",
+    "Don't go near the tomb below Oedon Chapel in the Cathedral Ward.",
+    "I have business there first...",
+    "(giggles)"
+  ],
+
+  "after_henryk_fight": [
+    "(Breathing Heavily) That wasn't necessary of ya.",
+    "But you have my thanks.",
+    "We made it with our lives... You're not bad at all.",
+    "You must have killed Gascoigne as well then.",
+    "He was falling apart... I'm sure it had to be done.",
+    "But try to keep your hands clean... The Hunter should hunt Beasts.",
+    "Leave the hunting of Hunters, to me.",
+    "(Laughs)",
+    "(Gives Approval gesture)",
+    "(Runs away)"
+  ],
+
+  "grand_cathedral_friendly": [
+    "Oh, is that you again?",
+    "I'm afraid I've made a bit of a blunder. I'm just going to have a short rest.",
+    "Oh, don't worry, I've taken blood. Enough to save an old woman.",
+    "No more dreams for me. This is my last chance.",
+    "What a fool I am. I'll have to tread carefully.",
+    "But that thing still lies in wait. Turn back. This is my score to settle.",
+    "(Gives Wait gesture)",
+    "My prey lies in wait this way. Turn back. This is my score to settle."
+  ],
+
+  "after_cathedral_fight_success": [
+    "Don't you ever listen to your elders? No matter, you did save my life.",
+    "I don't seem to be apt for this life anymore... My glory days were long ago now...",
+    "Hmmm, I know... Here, for you.",
+    "(Gives Crow Hunter Badge, Hunter rune)",
+    "This too is hunters' work, but bears no honor. A burden you may choose to carry.",
+    "The decision is yours alone. Ahh, my eyes grow heavy...",
+    "Let me rest a while... ...I'll be fine, just wait..."
+  ],
+
+  "slain_by_player": [
+    "You can't go on like this..."
+  ],
+
+  "grand_cathedral_hostile": [
+    "(Laughter) Few hunters can resist the intoxication of the hunt. Look at you, just the same as all the rest...",
+    "The hunters must die... The nightmare must end...",
+    "Only I can stop this madness!",
+    "(continued laughter)"
+  ],
+
+  "injured_hostile": [
+    "The beasts cannot be stopped. What good are hunters now?",
+    "Your blood is mine! A hunter's blood for me! Your punishment is death! Death to hunters!",
+    "Enough of this terrible dream!",
+    "(laughter)"
+  ],
+
+  "hostile_death": [
+    "...Ahh... you monsters...",
+    "All hunters must die!",
+    "(laughter as her body fades)"
+  ]
+}

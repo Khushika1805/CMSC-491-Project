@@ -1,0 +1,11 @@
+{
+  "name": "Mob Plaza",
+  "description": "A crowd of frenzied townsfolk surround a burning effigy, chanting and hunting anything that moves.",
+  "exits": ["Central Yharnam - Lantern", "Sewer Entrance"],
+  "npcs": [],
+  "enemies": [
+    "Hunting Mob With Torch",
+    "Hunting Mob With Pitchfork"
+  ],
+  "items": ["Molotov Cocktail", "Blood Vial"]
+}

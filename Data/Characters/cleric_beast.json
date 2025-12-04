@@ -1,0 +1,22 @@
+{
+  "name": "Cleric Beast",
+  "type": "Beast Boss",
+  "max_hp": 3000,
+  "damage": 180,
+  "defense": 50,
+  "speed": 25,
+  "ai_behavior": "berserker",
+  "faction": "Scourge Beast",
+  "aggro_state": "hostile",
+  "special_attacks": [
+    "Roaring Slam",
+    "Leaping Crush",
+    "Frenzied Flail"
+  ],
+  "drop_items": [
+    {
+      "item_name": "Sword Hunter Badge",
+      "quantity": 1
+    }
+  ]
+}
