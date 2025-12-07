@@ -1,22 +1,18 @@
 {
+  "id": "father_gascoigne",
   "name": "Father Gascoigne",
-  "type": "Hunter Boss",
-  "max_hp": 2600,
+  "alias": "Hunter of the Church",
+  "description": "A once-devoted hunter slowly losing himself to the beastly scourge.",
+  
+  "health": 250,
   "damage": 160,
-  "defense": 45,
-  "speed": 38,
-  "ai_behavior": "aggressive_hunter",
-  "faction": "Hunter",
-  "aggro_state": "hostile",
-  "phase_change": {
-    "trigger_hp_percent": 30,
-    "new_form": "Beast Gascoigne"
-  },
-  "special_attacks": [
-    "Gun Parry",
-    "Visceral Slash",
-    "Beast Transformation Rage"
-  ],
+  
+  "friendly": false,
+  
+  "dialogue_file": "father_gascoigne_dialogue.json",
+
+  "stun_item": "Music Box",
+
   "drop_items": [
     {
       "item_name": "Odeon Tomb Key",

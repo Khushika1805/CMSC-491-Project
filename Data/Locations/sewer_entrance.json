@@ -1,8 +1,0 @@
-{
-  "name": "Sewer Entrance",
-  "description": "A dim descent into foul waters and twisted walkways beneath Yharnam.",
-  "exits": ["Mob Plaza", "Lower Sewers"],
-  "npcs": ["Eileen the Crow"],
-  "enemies": ["Hunting Mob With Torch"],
-  "items": ["Antidote"]
-}

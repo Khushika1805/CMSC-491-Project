@@ -1,11 +1,30 @@
 {
+  "id": "loc_mob_plaza",
   "name": "Mob Plaza",
   "description": "A crowd of frenzied townsfolk surround a burning effigy, chanting and hunting anything that moves.",
-  "exits": ["Central Yharnam - Lantern", "Sewer Entrance"],
-  "npcs": [],
-  "enemies": [
-    "Hunting Mob With Torch",
-    "Hunting Mob With Pitchfork"
+
+  "previous": "loc_central_yharnam",
+  "next": "loc_sewer",
+
+  "characters": [
+    {
+      "id": "huntsman",
+      "count": 6
+    },
+    {
+      "id": "rabid_dog",
+      "count": 2
+    }
   ],
-  "items": ["Molotov Cocktail", "Blood Vial"]
+
+  "items": [
+    {
+      "item_id": "molotov_cocktail",
+      "count": 1
+    },
+    {
+      "item_id": "blood_vial",
+      "count": 2
+    }
+  ]
 }

@@ -1,0 +1,22 @@
+{
+  "id": "rabid_dog", 
+  "name": "Rabid Dog",
+  "alias": "Frenzied Hound",
+  "description": "Once domesticated, now feral and blood-crazed. Fast, aggressive, and unrelenting in its attacks.",
+  
+  "health": 50,
+  "damage": 20,
+  
+  "friendly": false,
+
+  "dialogue_file": null,
+
+  "stun_item": null,
+
+  "drop_items": [
+    {
+      "item_name": "Blood Echoes",
+      "quantity": 10
+    }
+  ]
+}

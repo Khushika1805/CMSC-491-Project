@@ -1,8 +1,0 @@
-{
-  "name": "Lower Sewers",
-  "description": "A maze of rotten planks and beast-filled tunnels. The stench is overwhelming.",
-  "exits": ["Sewer Entrance", "Aqueduct Access"],
-  "npcs": [],
-  "enemies": ["Carrion Crow", "Rabid Dog"],
-  "items": ["Oil Urn"]
-}

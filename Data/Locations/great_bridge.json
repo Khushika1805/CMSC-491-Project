@@ -1,9 +1,0 @@
-{
-  "name": "Great Bridge",
-  "description": "A towering stone bridge leading toward the Cathedral Ward. The hunt’s roar echoes from above.",
-  "exits": ["Central Yharnam - Lantern", "Aqueduct Access"],
-  "npcs": [],
-  "enemies": ["Rabid Dog", "Carrion Crow"],
-  "items": ["Torch"],
-  "boss": "Cleric Beast"
-}

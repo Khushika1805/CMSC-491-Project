@@ -1,10 +1,11 @@
 {
+  "id": "item_blood_vial",
   "name": "Blood Vial",
-  "item_type": "Consumable",
-  "description": "A vial filled with restorative blood. Heals physical wounds and restores vitality.",
-  "effect": {
-    "heal_amount": 300
-  },
-  "stack_limit": 20,
-  "location": "Dropped by Yharnamites and found on corpses near Central Yharnam Plaza"
+  "alias": "Standard Blood Vial",
+  "description": "A vial of potent blood that restores a good amount of health.",
+  
+  "gettable": true,
+  "category": "consumable",
+
+  "healing": 100
 }

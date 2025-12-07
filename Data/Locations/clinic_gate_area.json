@@ -1,8 +1,0 @@
-{
-  "name": "Clinic Gate",
-  "description": "An iron gate leading back to where the hunter’s journey began. Someone is just beyond the door…",
-  "exits": ["Mob Plaza"],
-  "npcs": ["Real Iosefka"],
-  "enemies": [],
-  "items": ["Quicksilver Bullets"]
-}

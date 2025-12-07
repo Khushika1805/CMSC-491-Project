@@ -1,30 +1,32 @@
-{
-  "first_encounter": [
-    "Oh you must be a Hunter, and not one from around here either. I'm Gilbert, a fellow outsider. You must have had a fine time of it. Yarnham has a special way of treating guests. I don't think I can stand if I wanted to, but I'm willing to help, if there's anything that can be done (coughs). This town is cursed. Whatever your reasons might be you should plan a swift exit. Whatever can be gained from this place, it will do more harm than good."
-  ],
-
-  "second_encounter": [
-    "Paleblood, you say? Hmm... Never heard of it. But if it's blood you're interested in, you should try the Healing Church. The church controls all knowledge on blood ministration, and all varieties of blood. Across the valley to the East of Yharnam lies the town of the Healing Church, known as the Cathedral Ward. And deep within the Cathedral Ward is the old grand cathedral. ...the birthplace of the Healing Church's special blood, or so they say. *coughs* Yharnamites don't share much with outsiders. Normally, they wouldn't let you near this place, but... The hunt is on tonight. This might be your chance..."
-  ],
-
-  "third_encounter": [
-    "Yes, I see... But the great bridge is the only way to the Cathedral Ward. And during the hunt, the bridge is closed... Hmm... You could try the aqueduct? There's a rather, how shall I put it, colorful area south of the great bridge. From there, an aqueduct leads to the Cathedral Ward. *coughs* Not a place you'd normally want to visit, but... I don't imagine you have much of a choice. Do you?"
-  ],
-
-  "fourth_encounter": [
-    "*coughing* An aqueduct leads from the town, south of the main bridge to the Cathedral Ward. Not a place you'd normally choose to visit, but... Not much of a choice, with the bridge closed. *heavy coughing*"
-  ],
-
-  "fifth_encounter": [
-    "Ahh, you needn’t concern yourself with me. I’m afraid I’m of little help now. But before I… Take this… (he gives you the Flamesprayer) I made no use of it, but perhaps you… What inflicted me was incurable, but this town gave me hope… Their strange blood bought me time. I was most fortunate. Unharmed by the plague of beasts, I can even die human. *coughing*"
-  ],
-
-  "sixth_encounter": [
-    "*coughing*",
-    "Why... me... why...",
-    "Dear gods, what have I done?",
-    "Save me, please...",
-    "Save me...",
-    "*coughing*"
-  ]
-}
+[
+  {
+    "id": 1,
+    "text": "Oh you must be a Hunter, and not from around here either. I'm Girlbert, a fellow outsider. Yharnam treats its guests... cruelly. I cannot stand even if I wished to, but I’ll help however I can. This town is cursed. Whatever brought you here… plan a swift exit.",
+    "min_insight": 0
+  },
+  {
+    "id": 2,
+    "text": "Paleblood? I’ve never heard such a thing. But if it's blood you seek, try the Healing Church. They hold every secret of blood ministration. Across the valley lies the Cathedral Ward — birthplace of their sacred blood. Outsiders are rarely welcomed… yet tonight’s hunt may grant you passage.",
+    "min_insight": 0
+  },
+  {
+    "id": 3,
+    "text": "The great bridge is the only path to the Cathedral Ward… and tonight, it’s closed. You could try the aqueduct. South of the bridge there’s a… colorful district. Dangerous, certainly — but do you have a choice?",
+    "min_insight": 0
+  },
+  {
+    "id": 4,
+    "text": "*coughs hard* That aqueduct leads straight to the Ward. It’s not somewhere anyone would choose to tread… but no one escapes this night without risk.",
+    "min_insight": 0
+  },
+  {
+    "id": 5,
+    "text": "Don’t concern yourself with me anymore. I can’t do much now… but take this. I never had the chance to use it well. Yharnam’s blood gave me hope, bought me time. Even if death comes… I remain human. *coughing*",
+    "min_insight": 5
+  },
+  {
+    "id": 6,
+    "text": "*weak coughing* Why… me… why…? Dear gods… what have I done… Save me… please… save… me…",
+    "min_insight": 10
+  }
+]

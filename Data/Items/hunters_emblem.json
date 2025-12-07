@@ -1,0 +1,11 @@
+{
+  "id": "key_hunters_emblem",
+  "name": "Hunter's Emblem",
+  "alias": "Emblem of the Hunters",
+  "description": "A symbol used by the hunters to access restricted cathedral grounds.",
+  
+  "gettable": true,
+  "category": "key_item",
+
+  "gate_unlocked": "courtyard_gate"
+}

@@ -1,8 +1,0 @@
-{
-  "name": "Central Yharnam - Lantern",
-  "description": "A grim plaza lit by a solitary lamp. You sense the hunt is raging nearby.",
-  "exits": ["Mob Plaza", "Great Bridge"],
-  "npcs": ["Gilbert"],
-  "enemies": [],
-  "items": ["Blood Vial", "Pebble"]
-}
