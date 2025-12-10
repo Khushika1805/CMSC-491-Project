@@ -1,0 +1,11 @@
+{
+  "id": "great_ones_umbilical_cord",
+  "name": "Great One's Umbilical Cord",
+  "alias": "Third Umbilical Cord",
+  "description": "A fragment of an umbilical cord touched by a Great One. Consuming its power can stagger even Gehrman himself.",
+
+  "gettable": true,
+  "category": "stun_item",
+
+  "stun_target": "gehrman"
+}

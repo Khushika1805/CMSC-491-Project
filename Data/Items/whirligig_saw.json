@@ -1,0 +1,11 @@
+{
+  "id": "whirligig_saw",
+  "name": "Whirligig Saw",
+  "alias": "Buzzsaw Hammer",
+  "description": "A trick weapon that hides a spinning saw within a heavy mace, shredding beasts with relentless teeth.",
+
+  "gettable": true,
+  "category": "weapon",
+  
+  "damage": 200
+}

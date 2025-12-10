@@ -1,0 +1,22 @@
+{
+  "id": "pthumerian_queen",
+  "name": "Pthumerian Queen",
+  "alias": "Silent Monarch",
+  "description": "A wan, spectral queen who barely resists, clutching ritual shears in trembling hands.",
+  
+  "health": 40,
+  "damage": 5,
+
+  "dialogue_file": null,
+
+  "friendly": false,
+  "vulnerable": true,
+  "stun_item_id": null,
+
+  "drop_items": [
+    {
+      "id": "stillbirth_shears",
+      "quantity": 1
+    }
+  ]
+}

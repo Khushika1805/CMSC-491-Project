@@ -1,0 +1,23 @@
+{
+  "id": "yahrnam_backstreet",
+  "name": "Yahrnam Backstreet",
+  "description": "A hidden street used by hunters and church servants to move unseen.",
+  
+  "previous": "yahrnam_alleyway",
+  "next": "mob_bonfire",
+
+  "key_item_for_travel": null,
+  "characters": [
+    {
+      "id": "executioner",
+      "count": 1
+    }
+  ],
+
+  "items": [
+    {
+      "id": "bloodstone_shard",
+      "count": 1
+    }
+  ]
+}

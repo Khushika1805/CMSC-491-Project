@@ -1,0 +1,23 @@
+{
+  "id": "plaza",
+  "name": "Plaza",
+  "description": "A large square where a massive brick-wielding troll patrols among the remains of countless hunts.",
+  
+  "previous": "mob_bonfire",
+  "next": "plaza_balcony",
+
+  "key_item_for_travel": null,
+  "characters": [
+    {
+      "id": "brick_troll",
+      "count": 1
+    }
+  ],
+
+  "items": [
+    {
+      "id": "blood_vial",
+      "count": 2
+    }
+  ]
+}

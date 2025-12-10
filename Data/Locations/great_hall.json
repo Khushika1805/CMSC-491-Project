@@ -1,0 +1,23 @@
+{
+  "id": "great_hall",
+  "name": "Great Hall",
+  "description": "A grand chamber where nightmare apostles guard forbidden secrets of the mind.",
+  
+  "previous": "castle_entrance",
+  "next": "hosts_maze",
+
+  "key_item_for_travel": null,
+  "characters": [
+    {
+      "id": "nightmare_apostle",
+      "count": 1
+    }
+  ],
+
+  "items": [
+    {
+      "id": "simon_bow_blade",
+      "count": 1
+    }
+  ]
+}

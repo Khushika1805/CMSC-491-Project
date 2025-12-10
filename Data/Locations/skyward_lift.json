@@ -1,0 +1,23 @@
+{
+  "id": "skyward_lift",
+  "name": "Skyward Lift",
+  "description": "A towering lift rising into the highest reaches of the nightmare.",
+  
+  "previous": "crypt_of_eyes",
+  "next": "nursery",
+
+  "key_item_for_travel": null,
+  "characters": [
+    {
+      "id": "pthumerian_queen",
+      "count": 1
+    }
+  ],
+
+  "items": [
+    {
+      "id": "blood_vial",
+      "count": 4
+    }
+  ]
+}

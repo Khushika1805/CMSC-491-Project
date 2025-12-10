@@ -1,0 +1,27 @@
+{
+  "id": "upper_plaza",
+  "name": "Upper Plaza",
+  "description": "A ritual ground guarded by horrors stitched together from the dead.",
+  
+  "previous": "central_square",
+  "next": "advent_plaza",
+
+  "key_item_for_travel": null,
+  "characters": [
+    {
+      "id": "chime_maiden",
+      "count": 1
+    },
+    {
+      "id": "undead_amalgam",
+      "count": 2
+    }
+  ],
+
+  "items": [
+    {
+      "id": "bloodstone_shard",
+      "count": 3
+    }
+  ]
+}

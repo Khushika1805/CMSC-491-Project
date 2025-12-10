@@ -1,0 +1,22 @@
+{
+  "id": "stone_throwing_yeti",
+  "name": "Stone-Throwing Yeti",
+  "alias": "Frenzied Giant",
+  "description": "A hulking beast that hurls slabs of stone with terrifying force before closing in to crush prey.",
+  
+  "health": 220,
+  "damage": 85,
+
+  "dialogue_file": null,
+
+  "friendly": false,
+  "vulnerable": true,
+  "stun_item_id": null,
+
+  "drop_items": [
+    {
+      "id": "blood_echoes",
+      "quantity": 140
+    }
+  ]
+}

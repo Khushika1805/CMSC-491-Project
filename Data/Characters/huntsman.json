@@ -6,17 +6,17 @@
   
   "health": 85,
   "damage": 30,
-  
-  "friendly": false,
 
   "dialogue_file": null, 
   
-  "stun_item": null,
+  "friendly": false,
+  "vulnerable": true,
+  "stun_item_id": null,
 
   "drop_items": [
     {
-      "item_name": "Blood Echoes",
-      "quantity": 15
+      "id": "blood_echoes",
+      "quantity": 30
     }
   ]
 }

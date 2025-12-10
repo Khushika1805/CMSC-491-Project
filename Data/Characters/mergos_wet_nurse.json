@@ -1,0 +1,26 @@
+{
+  "id": "mergos_wet_nurse",
+  "name": "Mergo's Wet Nurse",
+  "alias": "Shadowed Nanny",
+  "description": "A towering, veiled guardian cloaked in shadowed blades, protecting the unseen Mergo.",
+  
+  "health": 1100,
+  "damage": 130,
+
+  "dialogue_file": null,
+
+  "friendly": false,
+  "vulnerable": false,
+  "stun_item_id": "stillbirth_shears",
+
+  "drop_items": [
+    {
+      "id": "blood_echoes",
+      "quantity": 1500
+    },
+    {
+      "id": "great_ones_umbilical_cord",
+      "quantity": 1
+    }
+  ]
+}

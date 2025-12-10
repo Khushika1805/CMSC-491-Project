@@ -1,0 +1,23 @@
+{
+  "id": "cathedral_plaza",
+  "name": "Cathedral Plaza",
+  "description": "A wide open plaza leading toward the grand cathedral. Giants stand guard with silent resolve.",
+  
+  "previous": "cathedral_alley",
+  "next": "grand_cathedral_steps",
+
+  "key_item_for_travel": null,
+  "characters": [
+    {
+      "id": "church_giant",
+      "count": 2
+    }
+  ],
+
+  "items": [
+    {
+      "id": "church_cross",
+      "count": 1
+    }
+  ]
+}

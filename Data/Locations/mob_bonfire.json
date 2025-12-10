@@ -1,11 +1,12 @@
 {
-  "id": "loc_mob_plaza",
-  "name": "Mob Plaza",
-  "description": "A crowd of frenzied townsfolk surround a burning effigy, chanting and hunting anything that moves.",
+  "id": "mob_bonfire",
+  "name": "Mob Bonfire",
+  "description": "Deranged mobs gather around a burning effigy, chanting and hunting anything that moves.",
+  
+  "previous": "yahrnam_backstreet",
+  "next": null,
 
-  "previous": "loc_central_yharnam",
-  "next": "loc_sewer",
-
+  "key_item_for_travel": null,
   "characters": [
     {
       "id": "huntsman",
@@ -19,12 +20,8 @@
 
   "items": [
     {
-      "item_id": "molotov_cocktail",
+      "id": "molotov_cocktail",
       "count": 1
-    },
-    {
-      "item_id": "blood_vial",
-      "count": 2
     }
   ]
 }

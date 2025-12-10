@@ -1,0 +1,31 @@
+{
+  "id": "forest_trail",
+  "name": "Forest Trail",
+  "description": "A narrow trail cutting through overgrown woodlands. Large huntsmen lurk in the shadows.",
+  
+  "previous": "grand_cathedral",
+  "next": "run_down_bridge",
+
+  "key_item_for_travel": "gold_pendant",
+  "characters": [
+    {
+      "id": "large_huntsman",
+      "count": 2
+    }
+  ],
+
+  "items": [
+    {
+      "id": "lamp",
+      "count": 1
+    },
+    {
+      "id": "boom_hammer",
+      "count": 1
+    },
+    {
+      "id": "blood_vial",
+      "count": 5
+    }
+  ]
+}

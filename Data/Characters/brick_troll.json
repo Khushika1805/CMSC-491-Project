@@ -1,0 +1,22 @@
+{
+  "id": "brick_troll",
+  "name": "Brick Troll",
+  "alias": "Lumbering Brute",
+  "description": "A hulking beast wielding a massive brick club. Slow but devastating when its swings connect.",
+  
+  "health": 140,
+  "damage": 50,
+
+  "dialogue_file": null,
+
+  "friendly": false,
+  "vulnerable": true,
+  "stun_item_id": null,
+
+  "drop_items": [
+    {
+      "id": "blood_echoes",
+      "quantity": 50
+    }
+  ]
+}

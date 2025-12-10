@@ -1,0 +1,22 @@
+{
+  "id": "church_servant",
+  "name": "Church Servant",
+  "alias": "Tomb Attendant",
+  "description": "A lanky, masked servant of the Healing Church wielding a long spear and censer.",
+  
+  "health": 110,
+  "damage": 45,
+
+  "dialogue_file": null,
+
+  "friendly": false,
+  "vulnerable": true,
+  "stun_item_id": null,
+
+  "drop_items": [
+    {
+      "id": "blood_echoes",
+      "quantity": 45
+    }
+  ]
+}

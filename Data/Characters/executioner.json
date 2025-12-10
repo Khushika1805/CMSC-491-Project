@@ -1,0 +1,22 @@
+{
+  "id": "executioner",
+  "name": "Executioner",
+  "alias": "Gravekeeper Executioner",
+  "description": "A hulking servant of the Healing Church, clad in heavy garb and wielding a massive axe. Slow but brutal, relentless in carrying out its orders.",
+  
+  "health": 180,
+  "damage": 60,
+
+  "dialogue_file": null,
+  
+  "friendly": false,
+  "vulnerable": true,
+  "stun_item_id": null,
+
+  "drop_items": [
+    {
+      "id": "blood_echoes",
+      "quantity": 60
+    }
+  ]
+}

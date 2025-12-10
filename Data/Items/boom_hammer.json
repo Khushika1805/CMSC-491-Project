@@ -1,0 +1,11 @@
+{
+  "id": "boom_hammer",
+  "name": "Boom Hammer",
+  "alias": "Explosive Hammer",
+  "description": "A trick weapon fitted with a combustible head. Ignite it to deliver fiery, explosive blows.",
+
+  "gettable": true,
+  "category": "weapon",
+  
+  "damage": 95
+}

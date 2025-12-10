@@ -1,0 +1,14 @@
+{
+  "id": "workbench",
+  "name": "Workshop Bench",
+  "alias": "Work Bench",
+  "description": "A sturdy bench covered with tools and whetstones. Hunters use it to reinforce their weapons.",
+
+  "gettable": false,
+  "category": "environment",
+
+  "upgrade_action": "upgrade_weapon",
+  "upgrade_resource": "bloodstone_shard",
+  "upgrade_effect": "Increases weapon damage by 20% when a Bloodstone Shard is used."
+}
+

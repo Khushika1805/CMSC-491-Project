@@ -1,0 +1,27 @@
+{
+  "id": "catacomb_terrace",
+  "name": "Catacomb Terrace",
+  "description": "A narrow terrace overlooking the depths of the Mensis catacombs. Watchers in iron masks patrol the ledges.",
+  
+  "previous": "hosts_maze",
+  "next": "wardens_antechamber",
+
+  "key_item_for_travel": "iron_loft_key",
+  "characters": [
+    {
+      "id": "attendant",
+      "count": 2
+    }
+  ],
+
+  "items": [
+    {
+      "id": "lamp",
+      "count": 1
+    },
+    {
+      "id": "twin_blades_of_mercy",
+      "count": 1
+    }
+  ]
+}

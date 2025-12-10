@@ -1,0 +1,23 @@
+{
+  "id": "lamp",
+  "name": "Hunter's Lamp",
+  "alias": "Fast Travel Lamp",
+  "description": "A mystical lamp that connects to the Hunter's Dream and other Lamps discovered across the game to enable fast travel between different rooms where the lamps are present.",
+
+  "gettable": false,
+  "category": "environment",
+
+  "active": false,
+
+  "fast_travel_locations": {
+    "hunters_lawn": false,
+    "operation_theater": false,
+    "entry_balcony": false,
+    "oedon_chapel": false,
+    "forest_trail": false,
+    "whispering_grove": false,
+    "yahargul_prison": false,
+    "stone_graveyard": false,
+    "catacomb_terrace": false
+  }
+}

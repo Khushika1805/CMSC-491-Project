@@ -1,0 +1,11 @@
+{
+  "id": "church_cross",
+  "name": "Church Cross",
+  "alias": "Consecrated Cross",
+  "description": "A silver cross blessed by the Healing Church. Its radiant blessing can stagger Vicar Amelia for a short time.",
+
+  "gettable": true,
+  "category": "stun_item",
+
+  "stun_target_id": "vicar_amelia"
+}

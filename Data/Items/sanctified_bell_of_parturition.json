@@ -1,0 +1,11 @@
+{
+  "id": "sanctified_bell_of_parturition",
+  "name": "Sanctified Bell of Parturition",
+  "alias": "Parturition Bell",
+  "description": "An ivory bell used in forbidden rites. Its toll quells the writhing mass of the One Reborn, leaving it exposed.",
+
+  "gettable": true,
+  "category": "stun_item",
+
+  "stun_target_id": "the_one_reborn"
+}

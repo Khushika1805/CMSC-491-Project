@@ -1,0 +1,23 @@
+{
+  "id": "grand_cathedral",
+  "name": "Grand Cathedral",
+  "description": "The holy sanctuary at the center of the Healing Church. A monstrous beast awaits.",
+  
+  "previous": "grand_cathedral_steps",
+  "next": null,
+
+  "key_item_for_travel": null,
+  "characters": [
+    {
+      "id": "vicar_amelia",
+      "count": 1
+    }
+  ],
+
+  "items": [
+    {
+      "id": "blood_vial",
+      "count": 2
+    }
+  ]
+}

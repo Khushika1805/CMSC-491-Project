@@ -1,0 +1,23 @@
+{
+  "id": "yahrnam_alleyway",
+  "name": "Yahrnam Alleyway",
+  "description": "A narrow street filled with debris and hostile townsfolk lurking in every corner.",
+  
+  "previous": "entry_balcony",
+  "next": "yahrnam_backstreet",
+
+  "key_item_for_travel": null,
+  "characters": [
+    {
+      "id": "huntsman",
+      "count": 3
+    }
+  ],
+
+  "items": [
+    {
+      "id": "blood_vial",
+      "count": 1
+    }
+  ]
+}

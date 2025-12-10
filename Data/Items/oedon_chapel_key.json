@@ -1,0 +1,11 @@
+{
+  "id": "oedon_chapel_key",
+  "name": "Oedon Chapel Key",
+  "alias": "Chapel Key",
+  "description": "An iron key etched with the rune of Oedon. It unlocks the gate leading to Oedon Chapel.",
+  
+  "gettable": true,
+  "category": "key_item",
+
+  "room_unlocked": "oedon_chapel"
+}

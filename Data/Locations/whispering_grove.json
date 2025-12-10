@@ -1,0 +1,31 @@
+{
+  "id": "whispering_grove",
+  "name": "Whispering Grove",
+  "description": "A haunting woodland where eerie whispers come from unseen eyes hidden in the trees.",
+  
+  "previous": "forbidden_grave",
+  "next": "library_ground_floor",
+
+  "key_item_for_travel": "scholars_key",
+  "characters": [
+    {
+      "id": "garden_of_eyes",
+      "count": 2
+    }
+  ],
+
+  "items": [
+    {
+      "id": "lamp",
+      "count": 1
+    },
+    {
+      "id": "blood_vial",
+      "count": 5
+    },
+    {
+      "id": "threaded_cane",
+      "count": 1
+    }
+  ]
+}

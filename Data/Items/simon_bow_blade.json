@@ -1,0 +1,11 @@
+{
+  "id": "simon_bow_blade",
+  "name": "Simon's Bow Blade",
+  "alias": "Bowblade of the Hunter",
+  "description": "A trick bowblade designed for swift pursuit; its arrows pierce even those who slip away easily. Tales say its shots can stagger Micolash.",
+
+  "gettable": true,
+  "category": "stun_item",
+
+  "stun_target_id": "micolash"
+}

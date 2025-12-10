@@ -1,0 +1,23 @@
+{
+  "id": "library_first_floor",
+  "name": "Library First Floor",
+  "description": "Higher shelves conceal greater truths. The master remains motionless before the lake.",
+  
+  "previous": "library_ground_floor",
+  "next": "moonside_lake",
+
+  "key_item_for_travel": null,
+  "characters": [
+    {
+      "id": "master_willem",
+      "count": 1
+    }
+  ],
+
+  "items": [
+    {
+      "id": "bloodstone_shard",
+      "count": 2
+    }
+  ]
+}

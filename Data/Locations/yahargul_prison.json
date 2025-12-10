@@ -1,0 +1,35 @@
+{
+  "id": "yahargul_prison",
+  "name": "Yahargul Prison",
+  "description": "A nightmarish prison where the kidnapped are offered as sacrifices to eldritch forces.",
+  
+  "previous": "moonside_lake",
+  "next": "central_square",
+
+  "key_item_for_travel": "kins_wisdom",
+  "characters": [
+    {
+      "id": "huntsman",
+      "count": 4
+    },
+    {
+      "id": "chime_maiden",
+      "count": 1
+    }
+  ],
+
+  "items": [
+    {
+      "id": "lamp",
+      "count": 1
+    },
+    {
+      "id": "bloodstone_shard",
+      "count": 2
+    },
+    {
+      "id": "kirk_hammer",
+      "count": 1
+    }
+  ]
+}

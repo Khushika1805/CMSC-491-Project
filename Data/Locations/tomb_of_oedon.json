@@ -1,0 +1,18 @@
+{
+  "id": "tomb_of_oedon",
+  "name": "Tomb of Oedon",
+  "description": "A grand plaza where hunters are laid to rest. The air grows cold as a maddened hunter awaits.",
+  
+  "previous": "plaza_balcony",
+  "next": null,
+
+  "key_item_for_travel": null,
+  "characters": [
+    {
+      "id": "father_gascoigne",
+      "count": 1
+    }
+  ],
+
+  "items": []
+}

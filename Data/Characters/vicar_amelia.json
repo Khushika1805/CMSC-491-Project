@@ -1,0 +1,26 @@
+{
+  "id": "vicar_amelia",
+  "name": "Vicar Amelia",
+  "alias": "Beastly Vicar",
+  "description": "Once a devoted cleric, now a towering beast draped in holy cloth, her claws dripping with sacred blood.",
+  
+  "health": 500,
+  "damage": 120,
+
+  "dialogue_file": null,
+
+  "friendly": false,
+  "vulnerable": false,
+  "stun_item_id": "church_cross",
+
+  "drop_items": [
+    {
+      "id": "blood_echoes",
+      "quantity": 400
+    },
+    {
+      "id": "gold_pendant",
+      "quantity": 1
+    }
+  ]
+}

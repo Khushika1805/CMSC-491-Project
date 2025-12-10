@@ -1,0 +1,22 @@
+{
+  "id": "silverbeast",
+  "name": "Silverbeast",
+  "alias": "Rabid Silverfiends",
+  "description": "Frenzied, silver-furred beasts whose contorted limbs lash out with venom and speed.",
+  
+  "health": 160,
+  "damage": 60,
+
+  "dialogue_file": null,
+
+  "friendly": false,
+  "vulnerable": true,
+  "stun_item_id": null,
+
+  "drop_items": [
+    {
+      "id": "blood_echoes",
+      "quantity": 120
+    }
+  ]
+}

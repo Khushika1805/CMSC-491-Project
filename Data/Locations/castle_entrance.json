@@ -1,0 +1,23 @@
+{
+  "id": "castle_entrance",
+  "name": "Castle Entrance",
+  "description": "A towering gate guarded by hulking beasts hurling stones with brutal force.",
+  
+  "previous": "stone_graveyard",
+  "next": "great_hall",
+
+  "key_item_for_travel": null,
+  "characters": [
+    {
+      "id": "stone_throwing_yeti",
+      "count": 2
+    }
+  ],
+
+  "items": [
+    {
+      "id": "bloodstone_shard",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "moon_piercing_lens",
+  "name": "Moon-Piercing Lens",
+  "alias": "Lunar Lens",
+  "description": "A crystal lens that fractures moonlight into searing rays. Rumor says its focused beam can stagger Rom, the Vacuous Spider.",
+
+  "gettable": true,
+  "category": "stun_item",
+
+  "stun_target_id": "rom_the_vacuous_spider"
+}

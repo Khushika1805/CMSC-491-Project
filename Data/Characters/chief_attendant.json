@@ -1,0 +1,22 @@
+{
+  "id": "chief_attendant",
+  "name": "Chief Attendant",
+  "alias": "Catacomb Overseer",
+  "description": "The stern overseer of the catacombs, clad in heavier garb and commanding attendants with iron will.",
+  
+  "health": 200,
+  "damage": 70,
+
+  "dialogue_file": null,
+
+  "friendly": false,
+  "vulnerable": true,
+  "stun_item_id": null,
+
+  "drop_items": [
+    {
+      "id": "blood_echoes",
+      "quantity": 150
+    }
+  ]
+}

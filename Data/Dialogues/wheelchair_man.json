@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "text": "Ah-hah, you must be the new hunter. Welcome to the Hunter's Dream. This will be your home, for now. I am... Gehrman, friend to you hunters. You're sure to be in a fine haze about now, but don't think too hard about all of this. Just go out and kill a few beasts. It's for your own good. You know, it's just what hunters do! You'll get used to it...",
+    "min_insight": 0
+  },
+  {
+    "id": 2,
+    "text": "This was once a safe haven for hunters. A workshop where hunters used blood to enhance their weapons and flesh. We don't have as many tools as we once did, but... You're welcome to use whatever you find. (Whispers) ...Even the doll, should it please you...",
+    "min_insight": 0
+  },
+  {
+    "id": 3,
+    "text": "The moon is close. It will be a long hunt tonight. If the beasts loom large, and threaten to crush your spirits, seek the Holy Chalice. As every hunter before you has. A Holy Chalice will reveal the tomb of the gods, ...where hunters partake in communion...",
+    "min_insight": 6
+  },
+  {
+    "id": 4,
+    "text": "Most of the Holy Chalices lie deep within the tomb of the gods. And the few that found their way to the surface... Were lost again in the hands of men. But if the old hunter tales remain true... ...one of the Holy Chalices is worshipped in the valley hamlet. Yet the town is in disarray... It was burned and abandoned, for fear of the scourge, home now only to beasts. The perfect place for a hunter, wouldn't you say?",
+    "min_insight": 6
+  },
+  {
+    "id": 5,
+    "text": "The Healing Church, and the Blood Ministers who belong to it... were once guardians of the hunters, in the times of the hunter... Ludwig. They worked, and forged weapons, in their unique workshop. Today, most ministers don't recall the hunters. And so, heed the message of your forebears. Ascend to Oedon Chapel.",
+    "min_insight": 6
+  }
+]
