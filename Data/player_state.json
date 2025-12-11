@@ -1,7 +1,7 @@
 {
   "health": 100,
   "max_health": 100,
-  "weapon_level": 1,
+  "weapon_levels": {},
   "insight": 0,
   "max_insight": 99,
   "blood_echoes": 0,
