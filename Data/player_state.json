@@ -6,7 +6,7 @@
   "max_insight": 99,
   "blood_echoes": 0,
   "current_location_id": "hunters_lawn",
-  "inventory": {},
+  "inventory": {"hunters_axe": 1},
   "unlocked_lamps": {
     "hunters_lawn": true,
     "operation_theater": true,
