@@ -1,0 +1,13 @@
+{
+  "health": 100,
+  "max_health": 100,
+  "weapon_level": 1,
+  "insight": 0,
+  "max_insight": 99,
+  "blood_echoes": 0,
+  "current_location_id": "hunters_lawn",
+  "inventory": {},
+  "unlocked_lamps": [],
+  "visited_locations": [],
+  "character_state": {}
+}
