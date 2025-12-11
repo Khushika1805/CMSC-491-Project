@@ -6,7 +6,7 @@
   "previous": "moonside_lake",
   "next": "central_square",
 
-  "key_item_for_travel": "kins_wisdom",
+  "key_item_for_travel": "kin_wisdom",
   "characters": [
     {
       "id": "huntsman",
