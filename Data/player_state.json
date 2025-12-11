@@ -7,7 +7,7 @@
   "blood_echoes": 0,
   "current_location_id": "hunters_lawn",
   "inventory": {},
-  "unlocked_lamps": [],
-  "visited_locations": [],
+  "unlocked_lamps": {},
+  "visited_locations": {},
   "character_state": {}
 }
