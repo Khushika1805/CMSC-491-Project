@@ -1,0 +1,9 @@
+{
+  "id": "twin_blades_of_mercy",
+  "name": "Twin Blades of Mercy",
+  "alias": "Blades of Mercy",
+  "description": "Paired trick blades that split into swift dual daggers, ideal for relentless close combat.",
+  "gettable": true,
+  "category": "weapon",
+  "damage": 180
+}

@@ -1,0 +1,23 @@
+{
+  "id": "central_square",
+  "name": "Central Square",
+  "description": "A foreboding plaza guarded by fierce kidnappers who drag victims into the unseen realm.",
+  
+  "previous": "yahargul_prison",
+  "next": "upper_plaza",
+
+  "key_item_for_travel": null,
+  "characters": [
+    {
+      "id": "sack_kidnapper",
+      "count": 2
+    }
+  ],
+
+  "items": [
+    {
+      "id": "bloodstone_shard",
+      "count": 1
+    }
+  ]
+}

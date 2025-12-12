@@ -1,0 +1,9 @@
+{
+  "id": "hunter_axe",
+  "name": "Hunter Axe",
+  "alias": "Classic Hunters Axe",
+  "description": "A trusted weapon of the hunters",
+  "gettable": true,
+  "category": "weapon",
+  "damage": 123
+}

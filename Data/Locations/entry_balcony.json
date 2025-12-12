@@ -1,0 +1,24 @@
+{
+  "id": "entry_balcony",
+  "name": "Entry Balcony",
+  "description": "A balcony overlooking the chaotic streets below. The chill of the hunt lingers in the air.",
+  
+  "previous": "sick_room",
+  "next": "yahrnam_alleyway",
+
+  "key_item_for_travel": "courage",
+
+  "characters": [
+    {
+      "id": "gilbert",
+      "count": 1
+    }
+  ],
+
+  "items": [
+    {
+      "id": "lamp",
+      "count": 1
+    }
+  ]
+}

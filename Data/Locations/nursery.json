@@ -1,0 +1,18 @@
+{
+  "id": "nursery",
+  "name": "Nursery",
+  "description": "A cradle of nightmares where a hidden infant cries beneath an eldritch guardian.",
+  
+  "previous": "skyward_lift",
+  "next": "hunters_flowerfield",
+
+  "key_item_for_travel": null,
+  "characters": [
+    {
+      "id": "mergos_wet_nurse",
+      "count": 1
+    }
+  ],
+
+  "items": []
+}

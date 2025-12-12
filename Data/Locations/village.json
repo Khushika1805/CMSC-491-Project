@@ -1,0 +1,35 @@
+{
+  "id": "village",
+  "name": "Village",
+  "description": "A crumbling settlement plagued by beasts. Lanterns glow with unnatural light.",
+  
+  "previous": "run_down_bridge",
+  "next": "old_mill",
+
+  "key_item_for_travel": null,
+  "characters": [
+    {
+      "id": "large_huntsman",
+      "count": 2
+    },
+    {
+      "id": "huntsman",
+      "count": 2
+    }
+  ],
+
+  "items": [
+    {
+      "id": "bloodstone_shard",
+      "count": 2
+    },
+    {
+      "id": "blood_vial",
+      "count": 5
+    },
+    {
+      "id": "great_ones_lantern",
+      "count": 1
+    }
+  ]
+}

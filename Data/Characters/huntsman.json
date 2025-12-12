@@ -1,0 +1,18 @@
+{
+  "id": "huntsman",
+  "name": "Yahrnam Huntsman",
+  "alias": "Beast-Driven Huntsman",
+  "description": "A deranged citizen wielding crude weapons, driven mad by the hunt. Once a protector, now another threat in Yharnam\u2019s night.",
+  "health": 51,
+  "damage": 18,
+  "dialogue_file": null,
+  "friendly": false,
+  "vulnerable": true,
+  "stun_item_id": null,
+  "drop_items": [
+    {
+      "id": "blood_echoes",
+      "quantity": 30
+    }
+  ]
+}

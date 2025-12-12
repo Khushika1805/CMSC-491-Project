@@ -1,0 +1,27 @@
+{
+  "id": "oedon_chapel",
+  "name": "Oedon Chapel",
+  "description": "A quiet shelter beneath the cathedral. A strange dweller watches over the lamp and lost hunters.",
+  
+  "previous": "tomb_of_oedon",
+  "next": "cathedral_alley",
+
+  "key_item_for_travel": "oedon_chapel_key",
+  "characters": [
+    {
+      "id": "oedon_chapel_dweller",
+      "count": 1
+    }
+  ],
+
+  "items": [
+    {
+      "id": "lamp",
+      "count": 1
+    },
+    {
+      "id": "ludwigs_holy_blade",
+      "count": 1
+    }
+  ]
+}

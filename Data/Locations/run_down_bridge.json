@@ -1,0 +1,18 @@
+{
+  "id": "run_down_bridge",
+  "name": "Run Down Bridge",
+  "description": "A rotting bridge barely holding together. A suspicious man stands, watching your every move.",
+  
+  "previous": "forest_trail",
+  "next": "village",
+
+  "key_item_for_travel": null,
+  "characters": [
+    {
+      "id": "suspicious_beggar",
+      "count": 1
+    }
+  ],
+
+  "items": []
+}

@@ -1,0 +1,9 @@
+{
+  "id": "beast_cutter",
+  "name": "Beast Cutter",
+  "alias": "Cleansing Blades",
+  "description": "A serrated polearm that can extend into segmented blades, ideal for crowd control against beasts.",
+  "gettable": true,
+  "category": "weapon",
+  "damage": 192
+}

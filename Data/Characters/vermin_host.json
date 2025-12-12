@@ -1,0 +1,18 @@
+{
+  "id": "vermin_host",
+  "name": "Vermin Host",
+  "alias": "Infested Corpse",
+  "description": "A shambling corpse teeming with parasites that lash out from within.",
+  "health": 78,
+  "damage": 21,
+  "dialogue_file": null,
+  "friendly": false,
+  "vulnerable": true,
+  "stun_item_id": null,
+  "drop_items": [
+    {
+      "id": "blood_echoes",
+      "quantity": 60
+    }
+  ]
+}

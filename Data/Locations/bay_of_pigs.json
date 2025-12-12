@@ -1,0 +1,23 @@
+{
+  "id": "bay_of_pigs",
+  "name": "Bay of Pigs",
+  "description": "A horrifying corral where enormous boars feast on the remains of hunters.",
+  
+  "previous": "deep_woods",
+  "next": "forbidden_grave",
+
+  "key_item_for_travel": null,
+  "characters": [
+    {
+      "id": "man_eater_boar",
+      "count": 2
+    }
+  ],
+
+  "items": [
+    {
+      "id": "beast_cutter",
+      "count": 1
+    }
+  ]
+}

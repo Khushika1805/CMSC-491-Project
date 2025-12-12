@@ -1,0 +1,27 @@
+{
+  "id": "operation_theater",
+  "name": "Operation Theater",
+  "description": "A dimly lit surgery room filled with mysterious medical instruments. A calm woman observes you carefully.",
+
+  "previous": null,
+  "next": "sick_room",
+
+  "key_item_for_travel": null,
+  "characters": [
+    {
+      "id": "iosefka",
+      "count": 1
+    }
+  ],
+
+  "items": [
+    {
+      "id": "note",
+      "count": 1
+    },
+    {
+      "id": "lamp",
+      "count": 1
+    }
+  ]
+}

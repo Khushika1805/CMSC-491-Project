@@ -1,0 +1,12 @@
+{
+  "id": "blood_vial",
+  "name": "Blood Vial",
+  "alias": "Standard Blood Vial",
+  "description": "A vial of potent blood that restores a good amount of health.",
+  
+  "gettable": true,
+  "category": "consumable",
+
+  "healing": 100
+}
+

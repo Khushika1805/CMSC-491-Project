@@ -1,0 +1,23 @@
+{
+  "id": "cathedral_alley",
+  "name": "Cathedral Alley",
+  "description": "A path lined with imposing statues. Church servants patrol, blocking the way to the main plaza.",
+  
+  "previous": "oedon_chapel",
+  "next": "cathedral_plaza",
+
+  "key_item_for_travel": null,
+  "characters": [
+    {
+      "id": "church_servant",
+      "count": 2
+    }
+  ],
+
+  "items": [
+    {
+      "id": "bloodstone_shard",
+      "count": 2
+    }
+  ]
+}

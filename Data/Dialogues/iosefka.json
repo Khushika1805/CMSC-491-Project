@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "text": "Are you... out on the hunt? Then I'm very sorry, but... I cannot open this door. I am Iosefka. The patients here in my clinic must not be exposed to infection. I know that you hunt for us, for our town, but I'm sorry. Please. This is all that I can do. Now, go. And good hunting.",
+    "min_insight": 0
+  },
+  
+  {
+    "id": 2,
+    "text": "Oh hello... You're still alive. But I suppose we're nearing the end. I don't imagine there are any left who haven't turned by now. Tragic, really, but what's to be done...",
+    "min_insight": 9
+  },
+
+  {
+    "id": 3,
+    "text": "God I'm nauseous... Have you ever felt this? It's progressing. I can see things... I knew it, I'm different. I'm no beast... I... Oh... God, it feels awful... but, it proves that I'm chosen. Don't you see? How they writhe, writhe inside my head... It's... rather... rapturous...",
+    "min_insight": 15
+  }
+]

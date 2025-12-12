@@ -1,0 +1,11 @@
+{
+  "id": "gold_pendant",
+  "name": "Gold Pendant",
+  "alias": "Shimmering Pendant",
+  "description": "A heavy gold pendant engraved with forest sigils and an old adage by Master Willem- We are born of the blood, made men by the blood, undone by the blood. Our eyes are yet to open. Fear the old Blood",
+  
+  "gettable": true,
+  "category": "key_item",
+
+  "room_unlocked": "forest_trail"
+}

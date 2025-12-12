@@ -1,0 +1,18 @@
+{
+  "id": "man_eater_boar",
+  "name": "Man-Eater Boar",
+  "alias": "Ravenous Boar",
+  "description": "A massive, gore-soaked boar that charges hunters with murderous intent.",
+  "health": 120,
+  "damage": 42,
+  "dialogue_file": null,
+  "friendly": false,
+  "vulnerable": true,
+  "stun_item_id": null,
+  "drop_items": [
+    {
+      "id": "blood_echoes",
+      "quantity": 100
+    }
+  ]
+}

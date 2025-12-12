@@ -1,0 +1,11 @@
+{
+  "id": "iron_loft_key",
+  "name": "Iron Loft Key",
+  "alias": "Catacomb Key",
+  "description": "A heavy iron key that opens the sealed loft leading to the Catacomb Terrace.",
+  
+  "gettable": true,
+  "category": "key_item",
+
+  "room_unlocked": "catacomb_terrace"
+}

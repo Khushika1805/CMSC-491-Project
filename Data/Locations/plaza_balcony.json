@@ -1,0 +1,23 @@
+{
+  "id": "plaza_balcony",
+  "name": "Plaza Balcony",
+  "description": "An overlooking balcony where a frightened young girl hides from the horrors below.",
+  
+  "previous": "plaza",
+  "next": "tomb_of_oedon",
+
+  "key_item_for_travel": null,
+  "characters": [
+    {
+      "id": "young_yharnam_girl",
+      "count": 1
+    }
+  ],
+
+  "items": [
+    {
+      "id": "music_box",
+      "count": 1
+    }
+  ]
+}
