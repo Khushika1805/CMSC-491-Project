@@ -3,16 +3,12 @@
   "name": "Attendant",
   "alias": "Catacomb Attendant",
   "description": "A robed servant tending the catacombs, wielding a rusted blade with unnerving devotion.",
-  
-  "health": 120,
-  "damage": 40,
-
+  "health": 72,
+  "damage": 24,
   "dialogue_file": null,
-
   "friendly": false,
   "vulnerable": true,
   "stun_item_id": null,
-
   "drop_items": [
     {
       "id": "blood_echoes",

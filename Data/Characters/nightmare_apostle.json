@@ -3,16 +3,12 @@
   "name": "Nightmare Apostle",
   "alias": "Bloated Disciple",
   "description": "A towering worshipper swollen with eldritch growths, spewing arcane bile in defense of the nightmare.",
-  
-  "health": 280,
-  "damage": 90,
-
+  "health": 168,
+  "damage": 54,
   "dialogue_file": null,
-
   "friendly": false,
   "vulnerable": true,
   "stun_item_id": null,
-
   "drop_items": [
     {
       "id": "blood_echoes",

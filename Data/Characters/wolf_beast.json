@@ -3,22 +3,17 @@
   "name": "Wolf Beast",
   "alias": "Howling Fiend",
   "description": "A towering lupine monstrosity with matted fur and burning eyes. Faster and fiercer than the rabid dogs that roam the streets.",
-  
-  "health": 90,
-  "damage": 30,
-
+  "health": 54,
+  "damage": 18,
   "dialogue_file": null,
-
   "friendly": false,
   "vulnerable": true,
   "stun_item_id": null,
-
   "drop_items": [
     {
       "id": "blood_echoes",
       "quantity": 35
     },
-
     {
       "id": "courage",
       "quantity": 1

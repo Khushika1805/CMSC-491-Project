@@ -3,16 +3,12 @@
   "name": "Giant Viper Pit",
   "alias": "Nest of Serpents",
   "description": "A writhing mass of colossal vipers striking as one, their fangs dripping with venom.",
-  
-  "health": 260,
-  "damage": 75,
-
+  "health": 156,
+  "damage": 45,
   "dialogue_file": null,
-
   "friendly": false,
   "vulnerable": true,
   "stun_item_id": null,
-
   "drop_items": [
     {
       "id": "blood_echoes",

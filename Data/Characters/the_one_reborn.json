@@ -3,16 +3,12 @@
   "name": "The One Reborn",
   "alias": "Abomination of Yahar'gul",
   "description": "A grotesque mass of limbs and torsos birthed from nightmare bells, raining blood and bile upon its foes.",
-  
-  "health": 1200,
-  "damage": 140,
-
+  "health": 720,
+  "damage": 84,
   "dialogue_file": null,
-
   "friendly": false,
   "vulnerable": false,
   "stun_item_id": "sanctified_bell_of_parturition",
-
   "drop_items": [
     {
       "id": "blood_echoes",

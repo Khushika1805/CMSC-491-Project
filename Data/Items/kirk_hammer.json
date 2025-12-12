@@ -3,9 +3,7 @@
   "name": "Kirk Hammer",
   "alias": "Holy Hammer",
   "description": "A trick weapon that switches between a longsword and a massive stone hammer for crushing blows.",
-
   "gettable": true,
   "category": "weapon",
-  
-  "damage": 150
+  "damage": 338
 }

@@ -3,16 +3,12 @@
   "name": "Yurie, Last Scholar",
   "alias": "Arcane Devotee",
   "description": "A frail yet dangerous scholar who wields forbidden arcane arts, guarding secrets of the moon.",
-  
-  "health": 180,
-  "damage": 55,
-
+  "health": 108,
+  "damage": 33,
   "dialogue_file": null,
-
   "friendly": false,
   "vulnerable": true,
   "stun_item_id": null,
-
   "drop_items": [
     {
       "id": "blood_echoes",

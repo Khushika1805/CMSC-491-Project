@@ -3,16 +3,12 @@
   "name": "Gehrman, the First Hunter",
   "alias": "First Hunter",
   "description": "Founder of the Hunt, bound to the Dream, wielding swift trick weapons with deadly grace.",
-  
-  "health": 1200,
-  "damage": 150,
-
+  "health": 720,
+  "damage": 90,
   "dialogue_file": null,
-
   "friendly": false,
   "vulnerable": false,
   "stun_item_id": "great_ones_umbilical_cord",
-
   "drop_items": [
     {
       "id": "blood_echoes",

@@ -3,9 +3,7 @@
   "name": "Hunter Axe",
   "alias": "Classic Hunter's Axe",
   "description": "A trusted weapon of the hunters",
-
   "gettable": true,
   "category": "weapon",
-  
-  "damage": 55
+  "damage": 123
 }

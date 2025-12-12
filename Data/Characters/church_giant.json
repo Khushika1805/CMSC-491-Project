@@ -3,16 +3,12 @@
   "name": "Church Giant",
   "alias": "Towering Herald",
   "description": "A colossal enforcer draped in church vestments, crushing foes with sweeping, ponderous swings.",
-  
-  "health": 260,
-  "damage": 80,
-
+  "health": 156,
+  "damage": 48,
   "dialogue_file": null,
-
   "friendly": false,
   "vulnerable": true,
   "stun_item_id": null,
-
   "drop_items": [
     {
       "id": "blood_echoes",
