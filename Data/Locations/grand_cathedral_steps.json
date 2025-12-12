@@ -1,0 +1,27 @@
+{
+  "id": "grand_cathedral_steps",
+  "name": "Grand Cathedral Steps",
+  "description": "Massive steps leading toward the heart of the Healing Church. Hostile guards stand vigilant.",
+  
+  "previous": "cathedral_plaza",
+  "next": "grand_cathedral",
+
+  "key_item_for_travel": null,
+  "characters": [
+    {
+      "id": "church_giant",
+      "count": 1
+    },
+    {
+      "id": "church_servant",
+      "count": 2
+    }
+  ],
+
+  "items": [
+    {
+      "id": "blood_vial",
+      "count": 2
+    }
+  ]
+}

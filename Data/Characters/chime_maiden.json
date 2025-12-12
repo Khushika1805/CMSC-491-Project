@@ -1,0 +1,22 @@
+{
+  "id": "chime_maiden",
+  "name": "Chime Maiden",
+  "alias": "Bell-Ringer",
+  "description": "A veiled cultist ringing a cursed bell, summoning horrors from beyond.",
+  "health": 54,
+  "damage": 18,
+  "dialogue_file": null,
+  "friendly": false,
+  "vulnerable": true,
+  "stun_item_id": null,
+  "drop_items": [
+    {
+      "id": "blood_echoes",
+      "quantity": 100
+    },
+    {
+      "id": "sanctified_bell_of_parturition",
+      "quantity": 1
+    }
+  ]
+}

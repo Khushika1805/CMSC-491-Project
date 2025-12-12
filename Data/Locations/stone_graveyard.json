@@ -1,0 +1,27 @@
+{
+  "id": "stone_graveyard",
+  "name": "Stone Graveyard",
+  "description": "A forsaken burial ground leading into a nightmarish fortress. Silverbeasts prowl under moonlight.",
+  
+  "previous": "advent_plaza",
+  "next": "castle_entrance",
+
+  "key_item_for_travel": "eye_of_waking_thought",
+  "characters": [
+    {
+      "id": "silverbeast",
+      "count": 2
+    }
+  ],
+
+  "items": [
+    {
+      "id": "lamp",
+      "count": 1
+    },
+    {
+      "id": "whirligig_saw",
+      "count": 1
+    }
+  ]
+}

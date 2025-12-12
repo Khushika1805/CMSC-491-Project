@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "text": "...",
+    "min_insight": 0
+  },
+  {
+    "id": 2,
+    "text": "Hello, good hunter. I am a doll, here in this dream to look after you. Honorable hunter, pursue the echoes of blood, and I will channel them into your strength. You will hunt beasts... and I will be here for you, to embolden your sickly spirit.",
+    "min_insight": 1
+  },
+  {
+    "id": 3,
+    "text": "Did you speak with the man in the wheelchair? He was a hunter long, long ago, but now serves only to advise them. He is obscure, unseen in the dreaming world. Still, he stays here, in this dream... such is his purpose...",
+    "min_insight": 1
+  },
+  {
+    "id": 4,
+    "text": "Ahh, the little ones, inhabitants of the dream... They find hunters like yourself, worship, and serve them. Speak words, they do not, but still, aren't they sweet?",
+    "min_insight": 1
+  },
+  {
+    "id": 5,
+    "text": "Over time, countless hunters have visited this dream. The graves here stand in their memory. It all seems so long ago now...",
+    "min_insight": 1
+  },
+  {
+    "id": 6,
+    "text": "Good hunter... Your presence somehow soothes... I sense the ancient echoes, they course your veins...",
+    "min_insight": 1
+  },
+  {
+    "id": 7,
+    "text": "Ahh, welcome home, good hunter. I must have drifted off... What is it you desire?",
+    "min_insight": 1
+  }
+]

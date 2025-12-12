@@ -1,0 +1,18 @@
+{
+  "id": "winter_lantern",
+  "name": "Winter Lantern",
+  "alias": "Brain Trust",
+  "description": "A towering, brain-faced singer whose lullaby inflicts frenzy upon those who listen too long.",
+  "health": 132,
+  "damage": 57,
+  "dialogue_file": null,
+  "friendly": false,
+  "vulnerable": true,
+  "stun_item_id": null,
+  "drop_items": [
+    {
+      "id": "blood_echoes",
+      "quantity": 220
+    }
+  ]
+}

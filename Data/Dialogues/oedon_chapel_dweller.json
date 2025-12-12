@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "text": "Ahh, a hunter are ya? Very sorry, the incense must've masked your scent. Good, good. I've been waiting for one of your ilk. These hunts have everyone all locked up inside. Waiting for it to end... It always does, always has, y'know. Since forever. But it won't end very nicely, not this time. Even some folks hiding inside are goin' bad. The screams of wimminfolk, the stench of blood, the snarls of beasts... none of em's too uncommon now. Yharnam's done fer, I tell ya. But if you spot anyone with their wits about 'em... Tell 'em about this here Oedon Chapel. They'll be safe here. The incense wards off the beasts. Spread the word... tell 'em to come on over. If you wouldn't mind... Hee hee...",
+    "min_insight": 6
+  },
+  {
+    "id": 2,
+    "text": "Ahh, the hunter. Alive and well, are ya? This here's a safe place. Stay as long as you like. But... next time you're out on a hunt, remember what I asked. If you find any sane survivors, tell 'em to seek shelter at Oedon Chapel. Cause there's nothing to fear here... ha, hah ha!",
+    "min_insight": 6
+  },
+  {
+    "id": 3,
+    "text": "I know I shouldn't be askin' you, but... If you happen upon someone while hunting, tell 'em about this here Oedon Chapel. If they seem worth being told that is... Oh, and I do sincerely hope they are... Hee hee hee hee hee...",
+    "min_insight": 6
+  }
+]

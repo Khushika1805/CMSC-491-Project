@@ -1,0 +1,20 @@
+{
+  "id": "hunters_workshop",
+  "name": "Hunters Workshop",
+  "description": "A quiet workshop filled with tools used to maintain weapons and gear. A wheelchair-bound man sits silently.",
+  "previous": "hunters_lawn",
+  "next": null,
+  "key_item_for_travel": null,
+  "characters": [
+    {
+      "id": "wheelchair_man",
+      "count": 1
+    }
+  ],
+  "items": [
+    {
+      "id": "workbench",
+      "count": 1
+    }
+  ]
+}

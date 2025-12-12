@@ -1,0 +1,22 @@
+{
+  "id": "micolash",
+  "name": "Micolash, Host of the Nightmare",
+  "alias": "Host of the Nightmare",
+  "description": "A deranged scholar draped in a cage helm, darting through the nightmare\u2019s halls while hurling arcane spells.",
+  "health": 390,
+  "damage": 54,
+  "dialogue_file": null,
+  "friendly": false,
+  "vulnerable": false,
+  "stun_item_id": "simon_bow_blade",
+  "drop_items": [
+    {
+      "id": "blood_echoes",
+      "quantity": 900
+    },
+    {
+      "id": "iron_loft_key",
+      "quantity": 1
+    }
+  ]
+}

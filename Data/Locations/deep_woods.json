@@ -1,0 +1,23 @@
+{
+  "id": "deep_woods",
+  "name": "Deep Woods",
+  "description": "An eerie forest with slithering pits filled with massive vipers.",
+  
+  "previous": "old_mill",
+  "next": "bay_of_pigs",
+
+  "key_item_for_travel": null,
+  "characters": [
+    {
+      "id": "giant_viper_pit",
+      "count": 2
+    }
+  ],
+
+  "items": [
+    {
+      "id": "bloodstone_shard",
+      "count": 1
+    }
+  ]
+}

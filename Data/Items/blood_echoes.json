@@ -1,0 +1,11 @@
+{
+  "id": "blood_echoes",
+  "name": "Blood Echoes",
+  "alias": "Blood Echoes",
+  "description": "Spiritual remnants of slain foes. Used to increase max player health by 5% for every 100 echoes",
+  
+  "gettable": true,
+  "category": "upgrade_item",
+
+  "usable_for": "upgrade_health"
+}

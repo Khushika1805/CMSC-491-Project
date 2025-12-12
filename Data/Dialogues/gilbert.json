@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "text": "Oh you must be a Hunter, and not from around here either. I'm Girlbert, a fellow outsider. Yharnam treats its guests... cruelly. I cannot stand even if I wished to, but I’ll help however I can. This town is cursed. Whatever brought you here… plan a swift exit.",
+    "min_insight": 0
+  },
+  {
+    "id": 2,
+    "text": "Paleblood? I’ve never heard such a thing. But if it's blood you seek, try the Healing Church. They hold every secret of blood ministration. Across the valley lies the Cathedral Ward — birthplace of their sacred blood. Outsiders are rarely welcomed… yet tonight’s hunt may grant you passage.",
+    "min_insight": 0
+  },
+  {
+    "id": 3,
+    "text": "The great bridge is the only path to the Cathedral Ward… and tonight, it’s closed. You could try the aqueduct. South of the bridge there’s a… colorful district. Dangerous, certainly — but do you have a choice?",
+    "min_insight": 0
+  },
+  {
+    "id": 4,
+    "text": "*coughs hard* That aqueduct leads straight to the Ward. It’s not somewhere anyone would choose to tread… but no one escapes this night without risk.",
+    "min_insight": 0
+  },
+  {
+    "id": 5,
+    "text": "Don’t concern yourself with me anymore. I can’t do much now… but take this. I never had the chance to use it well. Yharnam’s blood gave me hope, bought me time. Even if death comes… I remain human. *coughing*",
+    "min_insight": 5
+  },
+  {
+    "id": 6,
+    "text": "*weak coughing* Why… me… why…? Dear gods… what have I done… Save me… please… save… me…",
+    "min_insight": 10
+  }
+]

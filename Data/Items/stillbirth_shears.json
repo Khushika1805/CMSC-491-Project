@@ -1,0 +1,11 @@
+{
+  "id": "stillbirth_shears",
+  "name": "Stillbirth Shears",
+  "alias": "Shears of Quietus",
+  "description": "Dulled ritual shears that sever echoes before they can wail. Said to stagger Mergo's Wet Nurse when used.",
+
+  "gettable": true,
+  "category": "stun_item",
+
+  "stun_target_id": "mergos_wet_nurse"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "great_ones_lantern",
+  "name": "Great Ones Lantern",
+  "alias": "Lantern of the Great Ones",
+  "description": "An eerie lantern that hums with otherworldly resonance. Its light flickers in patterns that might stagger the Shadows of Yahrnam.",
+  "gettable": true,
+  "category": "stun_item",
+  "stun_target_id": "shadows_of_yahrnam"
+}

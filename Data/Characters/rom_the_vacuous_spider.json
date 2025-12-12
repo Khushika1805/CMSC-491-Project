@@ -1,0 +1,22 @@
+{
+  "id": "rom_the_vacuous_spider",
+  "name": "Rom, the Vacuous Spider",
+  "alias": "Great One of the Lake",
+  "description": "A bloated Great One wrapped in a carapace of glittering eyes, commanding lesser kin from the lake's depths.",
+  "health": 540,
+  "damage": 66,
+  "dialogue_file": null,
+  "friendly": false,
+  "vulnerable": false,
+  "stun_item_id": "moon_piercing_lens",
+  "drop_items": [
+    {
+      "id": "blood_echoes",
+      "quantity": 1200
+    },
+    {
+      "id": "kins_wisdom",
+      "quantity": 1
+    }
+  ]
+}

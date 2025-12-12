@@ -1,0 +1,23 @@
+{
+  "id": "advent_plaza",
+  "name": "Advent Plaza",
+  "description": "A cursed arena where bodies and bells converge into an abominable rebirth.",
+  
+  "previous": "upper_plaza",
+  "next": "stone_graveyard",
+
+  "key_item_for_travel": null,
+  "characters": [
+    {
+      "id": "the_one_reborn",
+      "count": 1
+    }
+  ],
+
+  "items": [
+    {
+      "id": "blood_vial",
+      "count": 4
+    }
+  ]
+}

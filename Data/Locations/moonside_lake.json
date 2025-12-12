@@ -1,0 +1,23 @@
+{
+  "id": "moonside_lake",
+  "name": "Moonside Lake",
+  "description": "A vast, unreal lake where time fractures and a great spider weaves cosmic fate.",
+  
+  "previous": "library_first_floor",
+  "next": "yahargul_prison",
+
+  "key_item_for_travel": null,
+  "characters": [
+    {
+      "id": "rom_the_vacuous_spider",
+      "count": 1
+    }
+  ],
+
+  "items": [
+    {
+      "id": "blood_vial",
+      "count": 2
+    }
+  ]
+}

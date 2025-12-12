@@ -1,0 +1,22 @@
+{
+  "id": "shadows_of_yahrnam",
+  "name": "Shadows of Yahrnam",
+  "alias": "Triumvirate Shadows",
+  "description": "Three coordinated hunters twisted by the nightmare, striking in unison with blades and flame.",
+  "health": 420,
+  "damage": 57,
+  "dialogue_file": null,
+  "friendly": false,
+  "vulnerable": false,
+  "stun_item_id": "great_ones_lantern",
+  "drop_items": [
+    {
+      "id": "blood_echoes",
+      "quantity": 850
+    },
+    {
+      "id": "scholars_key",
+      "quantity": 1
+    }
+  ]
+}

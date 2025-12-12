@@ -1,0 +1,17 @@
+{
+  "id": "oedon_chapel_dweller",
+  "name": "Oedon Chapel Dweller",
+  "alias": "Chapel Dweller",
+  "description": "A gentle caretaker lurking in the chapel shadows, guiding lost hunters with quiet whispers.",
+  
+  "health": 70,
+  "damage": 0,
+
+  "dialogue_file": "../Dialogues/oedon_chapel_dweller.json",
+
+  "friendly": true,
+  "vulnerable": false,
+  "stun_item_id": null,
+
+  "drop_items": []
+}

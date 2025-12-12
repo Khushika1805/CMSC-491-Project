@@ -1,0 +1,9 @@
+{
+  "id": "threaded_cane",
+  "name": "Threaded Cane",
+  "alias": "Trick Cane",
+  "description": "A refined trick weapon that can unfold into a bladed whip, balancing style with reach.",
+  "gettable": true,
+  "category": "weapon",
+  "damage": 147
+}

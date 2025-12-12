@@ -1,0 +1,22 @@
+{
+  "id": "father_gascoigne",
+  "name": "Father Gascoigne",
+  "alias": "Hunter of the Church",
+  "description": "A once-devoted hunter slowly losing himself to the beastly scourge.",
+  "health": 150,
+  "damage": 96,
+  "dialogue_file": null,
+  "friendly": false,
+  "vulnerable": false,
+  "stun_item_id": "music_box",
+  "drop_items": [
+    {
+      "id": "blood_echoes",
+      "quantity": 300
+    },
+    {
+      "id": "oedon_chapel_key",
+      "quantity": 1
+    }
+  ]
+}

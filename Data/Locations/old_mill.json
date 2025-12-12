@@ -1,0 +1,23 @@
+{
+  "id": "old_mill",
+  "name": "Old Mill",
+  "description": "A dilapidated mill now home to a terrifying beast bearing countless parasites.",
+  
+  "previous": "village",
+  "next": "deep_woods",
+
+  "key_item_for_travel": null,
+  "characters": [
+    {
+      "id": "vermin_host",
+      "count": 1
+    }
+  ],
+
+  "items": [
+    {
+      "id": "blood_vial",
+      "count": 2
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "wardens_antechamber",
+  "name": "Wardens Antechamber",
+  "description": "A staging ground where chief wardens command their attendants.",
+  
+  "previous": "catacomb_terrace",
+  "next": "crypt_of_eyes",
+
+  "key_item_for_travel": null,
+  "characters": [
+    {
+      "id": "chief_attendant",
+      "count": 1
+    }
+  ],
+
+  "items": [
+    {
+      "id": "blood_vial",
+      "count": 3
+    }
+  ]
+}

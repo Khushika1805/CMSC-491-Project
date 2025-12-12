@@ -1,0 +1,9 @@
+{
+  "id": "note",
+  "name": "Note",
+  "alias": "Note",
+  "description": "A hastily scrawled message: \"seek paleblood to transcend the hunt\".",
+
+  "gettable": true,
+  "category": "key_item"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "crypt_of_eyes",
+  "name": "Crypt of Eyes",
+  "description": "A chamber filled with eldritch watchers that induce madness with a single gaze.",
+  
+  "previous": "wardens_antechamber",
+  "next": "skyward_lift",
+
+  "key_item_for_travel": null,
+  "characters": [
+    {
+      "id": "winter_lantern",
+      "count": 1
+    }
+  ],
+
+  "items": [
+    {
+      "id": "bloodstone_shard",
+      "count": 3
+    }
+  ]
+}

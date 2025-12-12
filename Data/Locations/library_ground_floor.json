@@ -1,0 +1,23 @@
+{
+  "id": "library_ground_floor",
+  "name": "Library Ground Floor",
+  "description": "Ancient tomes and secrets are guarded by scholars who have seen too much.",
+  
+  "previous": "whispering_grove",
+  "next": "library_first_floor",
+
+  "key_item_for_travel": null,
+  "characters": [
+    {
+      "id": "yurie_last_scholar",
+      "count": 1
+    }
+  ],
+
+  "items": [
+    {
+      "id": "blood_vial",
+      "count": 5
+    }
+  ]
+}

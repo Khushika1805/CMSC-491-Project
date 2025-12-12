@@ -1,0 +1,11 @@
+{
+  "id": "eye_of_waking_thought",
+  "name": "Eye of Waking Thought",
+  "alias": "Waking Eye",
+  "description": "A cold, unblinking eye idol that opens the way to the Stone Graveyard when held aloft.",
+  
+  "gettable": true,
+  "category": "key_item",
+
+  "room_unlocked": "stone_graveyard"
+}

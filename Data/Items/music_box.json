@@ -1,0 +1,11 @@
+{
+  "id": "music_box",
+  "name": "Music Box",
+  "alias": "Tiny Music Box",
+  "description": "A small music box that plays a song known to stir Gascoigne's lost memories.",
+
+  "gettable": true,
+  "category": "stun_item",
+
+  "stun_target_id": "father_gascoigne"
+}

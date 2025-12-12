@@ -1,0 +1,23 @@
+{
+  "id": "forbidden_grave",
+  "name": "Forbidden Grave",
+  "description": "A forsaken burial ground where the hunt’s greatest killers await.",
+  
+  "previous": "bay_of_pigs",
+  "next": "library_ground_floor",
+
+  "key_item_for_travel": null,
+  "characters": [
+    {
+      "id": "shadows_of_yharnam",
+      "count": 2
+    }
+  ],
+
+  "items": [
+    {
+      "id": "blood_vial",
+      "count": 2
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "sack_kidnapper",
+  "name": "Sack Kidnapper",
+  "alias": "Snatcher",
+  "description": "A hulking hunter carrying a heavy sack, eager to drag victims to Yahar'gul.",
+  "health": 120,
+  "damage": 42,
+  "dialogue_file": null,
+  "friendly": false,
+  "vulnerable": true,
+  "stun_item_id": null,
+  "drop_items": [
+    {
+      "id": "blood_echoes",
+      "quantity": 300
+    }
+  ]
+}

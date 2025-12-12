@@ -1,0 +1,9 @@
+{
+  "id": "courage",
+  "name": "Courage",
+  "alias": "Hunters Courage",
+  "description": "A surge of bravery that steels the hunter's nerves. Required to step onto the Entry Balcony.",
+  "gettable": true,
+  "category": "key_item",
+  "room_unlocked": "entry_balcony"
+}

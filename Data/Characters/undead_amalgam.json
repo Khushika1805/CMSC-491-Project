@@ -1,0 +1,18 @@
+{
+  "id": "undead_amalgam",
+  "name": "Undead Amalgam",
+  "alias": "Corpse Pile",
+  "description": "A shambling heap of stitched corpses that flails with countless limbs.",
+  "health": 144,
+  "damage": 48,
+  "dialogue_file": null,
+  "friendly": false,
+  "vulnerable": true,
+  "stun_item_id": null,
+  "drop_items": [
+    {
+      "id": "blood_echoes",
+      "quantity": 180
+    }
+  ]
+}

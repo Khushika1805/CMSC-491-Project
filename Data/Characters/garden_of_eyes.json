@@ -1,0 +1,18 @@
+{
+  "id": "garden_of_eyes",
+  "name": "Garden of Eyes",
+  "alias": "Screeching Watcher",
+  "description": "A floating cluster of pale scholars whose fused eyes emit maddening screeches and quick arcane lashes.",
+  "health": 90,
+  "damage": 27,
+  "dialogue_file": null,
+  "friendly": false,
+  "vulnerable": true,
+  "stun_item_id": null,
+  "drop_items": [
+    {
+      "id": "blood_echoes",
+      "quantity": 90
+    }
+  ]
+}

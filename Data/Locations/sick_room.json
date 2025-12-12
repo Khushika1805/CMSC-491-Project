@@ -1,0 +1,18 @@
+{
+  "id": "sick_room",
+  "name": "Sick Room",
+  "description": "A small patient ward where a monstrous figure lies waiting, transformed by the hunt.",
+
+  "previous": "operation_theater",
+  "next": "entry_balcony",
+
+  "key_item_for_travel": null,
+  "characters": [
+    {
+      "id": "wolf_beast",
+      "count": 1
+    }
+  ],
+
+  "items": []
+}
