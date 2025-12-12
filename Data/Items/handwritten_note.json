@@ -1,6 +1,6 @@
 {
-  "id": "handwritten_note",
-  "name": "Handwritten Note",
+  "id": "note",
+  "name": "Note",
   "alias": "Note",
   "description": "A hastily scrawled message: \"seek paleblood to transcend the hunt\".",
 
