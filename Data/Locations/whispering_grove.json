@@ -6,7 +6,7 @@
   "previous": "forbidden_grave",
   "next": "library_ground_floor",
 
-  "key_item_for_travel": "scholars_key",
+  "key_item_for_travel": "scholar_key",
   "characters": [
     {
       "id": "garden_of_eyes",

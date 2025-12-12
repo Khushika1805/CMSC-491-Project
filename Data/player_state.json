@@ -1,13 +1,23 @@
 {
   "health": 100,
   "max_health": 100,
-  "weapon_level": 1,
+  "weapon_levels": {},
   "insight": 0,
   "max_insight": 99,
   "blood_echoes": 0,
   "current_location_id": "hunters_lawn",
   "inventory": {},
-  "unlocked_lamps": [],
-  "visited_locations": [],
+  "unlocked_lamps": {
+    "hunters_lawn": true,
+    "operation_theater": true,
+    "entry_balcony": false,
+    "oedon_chapel": false,
+    "forest_trail": false,
+    "whispering_grove": false,
+    "yahargul_prison": false,
+    "stone_graveyard": false,
+    "catacomb_terrace": false
+  },
+  "visited_locations": {},
   "character_state": {}
 }
