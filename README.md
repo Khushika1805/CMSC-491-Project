@@ -37,7 +37,7 @@ This is a list of the possible actions you can take in the game
 - DESRIBE ROOM — Reprint the current room description, items, characters, exits. Prompt: `describe this room`.
 
 ## How to play:
-1) Open `parser-2.ipynb` in Colab(by uploading it to your google drive).  
+1) Open `parser.ipynb` in Colab(by uploading it to your google drive).  
 2) Run all the cells in the notebook sequentially, The notebook pulls all the Game data from the repository automatically.
 3) You just need to scroll down to the last cell to see a CLI open up. 
 4) Use custom input in CLI to execute the above mentioned actions.
