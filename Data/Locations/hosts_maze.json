@@ -1,11 +1,9 @@
 {
   "id": "hosts_maze",
-  "name": "Host's Maze",
+  "name": "Hosts Maze",
   "description": "A twisting labyrinth of arcane traps where a mad host plays games with his prey.",
-  
   "previous": "great_hall",
   "next": "catacomb_terrace",
-
   "key_item_for_travel": null,
   "characters": [
     {
@@ -13,7 +11,6 @@
       "count": 1
     }
   ],
-
   "items": [
     {
       "id": "blood_vial",

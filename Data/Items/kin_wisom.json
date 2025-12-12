@@ -1,11 +1,9 @@
 {
   "id": "kin_wisom",
   "name": "Kin Wisom",
-  "alias": "Kin's Sigil",
+  "alias": "Kins Sigil",
   "description": "A fragment of eldritch insight sealed in a talisman, granting passage into Yahar'gul Prison.",
-  
   "gettable": true,
   "category": "key_item",
-
   "room_unlocked": "yahargul_prison"
 }

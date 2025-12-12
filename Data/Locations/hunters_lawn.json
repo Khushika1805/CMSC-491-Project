@@ -1,11 +1,9 @@
 {
   "id": "hunters_lawn",
-  "name": "Hunter's Lawn",
+  "name": "Hunters Lawn",
   "description": "A peaceful garden illuminated by a mystical lamp. A gentle doll watches silently over the grounds.",
-
   "previous": null,
   "next": "hunters_workshop",
-
   "key_item_for_travel": null,
   "characters": [
     {
@@ -13,7 +11,6 @@
       "count": 1
     }
   ],
-
   "items": [
     {
       "id": "lamp",

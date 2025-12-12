@@ -4,7 +4,7 @@
   "description": "The holy sanctuary at the center of the Healing Church. A monstrous beast awaits.",
   
   "previous": "grand_cathedral_steps",
-  "next": null,
+  "next": "forest_trail",
 
   "key_item_for_travel": null,
   "characters": [

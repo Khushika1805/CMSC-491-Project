@@ -4,7 +4,7 @@
   "description": "A grand plaza where hunters are laid to rest. The air grows cold as a maddened hunter awaits.",
   
   "previous": "plaza_balcony",
-  "next": null,
+  "next": "oedon_chapel",
 
   "key_item_for_travel": null,
   "characters": [
